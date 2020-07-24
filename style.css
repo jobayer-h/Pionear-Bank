@@ -1,0 +1,31 @@
+#login-input{
+    margin-top: 40px;
+    padding: 50px;
+    box-shadow: 5px 5px 10px gray;
+    border-radius: 10px;
+}
+body{
+    padding: 50px;
+}
+#transition-area{
+    display: none;
+}
+.status{
+    padding: 20px;
+    border-radius: 10px;
+}
+.diposit{
+    background-color:lightgreen;
+}
+.withdraw{
+    background-color: peru;
+}
+.balance{
+    background-color: orange;
+}
+.tran-box{
+    box-shadow: 5px 5px 10px gray;
+    padding: 30px;
+    margin-top: 50px;
+    border-radius: 10px;
+}
